@@ -1,0 +1,9 @@
+﻿  opencv_project1.cpp
+D:\Users\oscar\study_code\opencv\opencv_project1\opencv_project1.cpp(35,9): warning C4101: “a”: 未引用的局部变量
+D:\Users\oscar\study_code\opencv\opencv_project1\opencv_project1.cpp(35,12): warning C4101: “b”: 未引用的局部变量
+  正在生成代码
+  1 of 92 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  opencv_project1.vcxproj -> D:\Users\oscar\study_code\opencv\opencv_project1\x64\Release\opencv_project1.exe
